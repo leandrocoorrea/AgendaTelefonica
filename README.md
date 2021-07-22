@@ -1,6 +1,6 @@
 
 Agenda Telefônica
-
+(obs: Todos os arquivos em uma pasta e com o banco incluso, também arquivos soltos, caso dê algum problema na hora do download da pasta)
 
 É composto pela página inicial (home.php) com as opções de Cadastro de contatos(agenda.php) e Pesquisar (pesquisar.php).
 
