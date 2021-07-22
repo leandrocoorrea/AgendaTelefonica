@@ -1,5 +1,5 @@
 
-Agenda Telefonica
+Agenda Telefônica
 
 
 É composto pela página inicial (home.php) com as opções de Cadastro de contatos(agenda.php) e Pesquisar (pesquisar.php).
